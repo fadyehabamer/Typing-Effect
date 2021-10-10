@@ -1,2 +1,2 @@
-# Typing Effect Using Css3
-  Using Css3
+# Typing Effect
+> Using Css3
